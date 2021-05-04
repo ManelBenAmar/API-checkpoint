@@ -1,0 +1,9 @@
+#navbar {
+    display: flex;
+    justify-content: space-between;
+    height: 1cm;
+    background-color: rgb(134, 168, 54);
+    margin: 0.5 cm;
+    padding-left: 2%;
+    padding-right: 2%;
+}
